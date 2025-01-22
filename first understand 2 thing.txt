@@ -1,0 +1,17 @@
+first understand 2 thing
+1 git - is a software | is a version control system
+2 GitHub - is a website
+
+git  -- first install in PC
+GitHub -- create account
+
+many software work
+
+if we not have any software we can use terminal
+
+to store our files in GitHub
+first step create repository in GitHub
+
+i want store that folder in gituhub
+
+
